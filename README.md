@@ -2,7 +2,7 @@
 
 A Deep Learning project focused on predicting mobile game match outcomes and generating optimized strategies.
 
-## 📁 Repository Contents
+## Repository Contents
 * **`Clash_Royale_Project.ipynb`**: Complete Jupyter Notebook (data preprocessing, feature engineering, and model training).
 * **`Project_Presentation.pdf`**: Slides detailing methodology, benchmarks, and key results.
 
